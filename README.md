@@ -6,3 +6,5 @@ The main script (main.py) is inside the scripts (./scripts) folder of this repos
 
 Scan data of all the objects are inside the data (./data) folder of this repository.
 
+The input, output and reference vtk files of all the objects are present inside the results(./scripts/results) folder
+
