@@ -31,7 +31,7 @@ init_rotation = "1,0,0;0,1,0;0,0,1"
 
 def main():
     data_list = ["bag", "basketball", "computercluster1", "corner2", "lab1", "sofalong", "sofawhole", "threechair", "threemonitor"]
-    # data_list = ["bag"]
+    # data_list = ["threemonitor"]
 
     # repo_location = pathlib.Path(__file__).parent.parent.absolute()
     # data_folder = repo_location / 'data'

@@ -9,15 +9,14 @@ referenceDataPointsFilters:
       knn: 10
   #  - IdentityDataPointsFilter
 
-
 matcher:
   KDTreeMatcher:
-    knn: 5
+    knn: 10
+    # epsilon: 0
 
 outlierFilters:
   - TrimmedDistOutlierFilter:
       ratio: 0.95
-      # ratio: 0.75
 
 errorMinimizer:
   PointToPlaneErrorMinimizer
