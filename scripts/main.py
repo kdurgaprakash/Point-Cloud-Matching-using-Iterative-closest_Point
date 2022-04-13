@@ -21,14 +21,12 @@ Parameters = pms.Parametrizable.Parameters
 # Be more verbose (info logging to the console)
 is_verbose = True
 
-# Load the config from a YAML file (default: default.yaml)
-config_file = "./icp_tutorial_cfg.yaml"
+# Load the config from a YAML file
+config_file = "./icp_cfg.yaml"
 
 # Add an initial 3D translation before applying ICP (default: 0,0,0)
-# Add an initial 2D translation before applying ICP (default: 0,0)
 init_translation = "0,0,0"
 # Add an initial 3D rotation before applying ICP (default: 1,0,0;0,1,0;0,0,1)
-# Add an initial 2D rotation before applying ICP (default: 1,0;0,1)
 init_rotation = "1,0,0;0,1,0;0,0,1"
 
 def main():
