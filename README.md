@@ -12,3 +12,8 @@ Configuration File:
 
 Crucial parameters of the ICP is provided in the icp_cfg.yaml file inside scripts folder
 (./scripts)
+
+
+main.py script is launched to get transformation matrix for all objects in the terminal.
+
+Reference and output vtk obtained in results folder match with each other when visualized in Paraview.
