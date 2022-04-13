@@ -8,3 +8,7 @@ Scan data of all the objects are inside the data (./data) folder of this reposit
 
 The input, output and reference vtk files of all the objects are present inside the results(./scripts/results) folder
 
+Configuration File:
+
+Crucial parameters of the ICP is provided in the icp_cfg.yaml file inside scripts folder
+(./scripts)
