@@ -11,7 +11,7 @@ referenceDataPointsFilters:
 
 matcher:
   KDTreeMatcher:
-    knn: 10
+    knn: 3
     # epsilon: 0
 
 outlierFilters:
