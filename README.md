@@ -1,4 +1,4 @@
-# Coding Challenge - Registration Solution
+# Point Cloud matchign using ICP
 
 The registration of pointclouds is carried out in this repository. The transformation required to match the poinclouds is obtained as the output of the main script. Libpointmatcher library is used for processing pointclouds. Paraview is used to visualize pointclouds.
 
